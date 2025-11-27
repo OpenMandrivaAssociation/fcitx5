@@ -12,7 +12,7 @@
 # in the following format <name>-<version>-<commit_date>.xz
 
 Name:           fcitx5
-Version:        5.1.12
+Version:        5.1.16
 Release:        %{?commit_date:~0.%{commit_date}.}1
 Summary:        maybe a new fcitx.
 Group:          Development
